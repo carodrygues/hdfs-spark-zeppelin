@@ -18,7 +18,7 @@
 * Spark history server: (http://node1:18080)
 * Zeppelin: (http://node1:8080)
 
-#Vagrant VM
+# Vagrant VM
 
 ```
 vagrant up --provider="virtualbox"
