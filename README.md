@@ -29,7 +29,7 @@ cd /vagrant/
 ```
 
 
-# Create Directories in HDFS
+# Create a directory in HDFS
 
 ```
 hdfs dfs –mkdir –p ocorrencias
